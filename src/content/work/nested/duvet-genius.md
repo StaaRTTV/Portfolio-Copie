@@ -14,7 +14,7 @@ tags:
 
  En tant que plateforme centralisée pour les fans et les adeptes du jeu vidéo, notre serveur offre bien plus qu'une simple expérience de streaming. C'est un lieu de rencontre virtuel où la convivialité et l'enthousiasme se mêlent pour créer une atmosphère unique.
 
-#### 🌐 Communauté Unie de 1100 Membres :
+#### 🌐 Communauté Unie de 1600 Membres :
 Plongez au cœur d'une communauté florissante, composée de plus de 1000 membres partageant la même passion pour les jeux vidéo. Que vous soyez un joueur occasionnel ou un compétiteur acharné, notre serveur offre un espace inclusif où chaque voix compte.
 
 #### 🎉 Pôle Animation Actif :
